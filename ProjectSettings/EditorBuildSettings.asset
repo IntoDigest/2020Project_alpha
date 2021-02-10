@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Pre_Animated/Scenes/Menu.unity
+    guid: da48823541fc42c4a970511869d35b23
+  - enabled: 1
+    path: Assets/Pre_Animated/Scenes/Pre_Animated.unity
+    guid: a31aacac7dbf3124482e7c3e804743ec
+  - enabled: 1
+    path: Assets/Mouth/Mouth_Tutorial.unity
+    guid: d7701c43e67558c49b2dde4ad5930a48
+  - enabled: 1
+    path: Assets/Mouth/Cutscene_To_Stomach.unity
+    guid: 629abb24167ca624a967f3ecf5d43874
+  - enabled: 1
+    path: Assets/Stomach/Stomach_Scene.unity
+    guid: c16ce6e3c2a6ae3478cab32ac3bd0bc2
+  - enabled: 1
+    path: Assets/Stomach/Cutscene_To_Intes.unity
+    guid: 045e88b02924f564084f5d55734b369e
+  - enabled: 1
+    path: Assets/Small_Intes/Intes_01.unity
+    guid: 8aa451512a02b0c40bf7260aff1dc78e
+  - enabled: 1
+    path: Assets/Small_Intes/Final_Boss.unity
+    guid: 4fb8316c169020a4fb80c9d7b42d3974
+  - enabled: 1
+    path: Assets/Small_Intes/Final_Cutscene.unity
+    guid: 3508bae428c0fc749b2d15ddefc38371
+  - enabled: 1
+    path: Assets/Small_Intes/Credit.unity
+    guid: 12de0d33afa200949a31ec554688db1b
+  m_configObjects: {}
